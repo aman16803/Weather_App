@@ -15,3 +15,4 @@ API: OpenWeatherMap
 Network: Retrofit
 UI Components: RecyclerView, ConstraintLayout
 Permissions: Location access (with permission handling)
+![image alt](https://github.com/aman16803/Weather_App/blob/7137b4ef6a098f3860f2887192ffe8aa3130b99d/Images/Screenshot2.jpg)
